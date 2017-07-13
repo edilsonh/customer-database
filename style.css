@@ -1,0 +1,32 @@
+h1 {
+  font-size: 40px;
+}
+
+.header {
+  text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.people {
+  width: 200px;
+  margin: 15px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+h3 {
+  border-bottom: 1px solid green;
+}
+
+p {
+  color: darkgray;
+}
+
+img {
+  width: 200px;
+}
