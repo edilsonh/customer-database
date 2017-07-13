@@ -1,6 +1,3 @@
-let b = `${customers.results[1].gender}`;
-console.log(b);
-
 let templateHolder = [];
 
 customers.results.forEach(function(item){
