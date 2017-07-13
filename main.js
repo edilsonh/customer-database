@@ -14,11 +14,8 @@ customers.results.forEach(function(item){
   </article>
   `;
   templateHolder += template;
-  //console.log(template);
 
 });
-
-console.log(templateHolder);
 
 
 let container = document.querySelector(".container");
