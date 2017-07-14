@@ -19,7 +19,7 @@ h1 {
   text-transform: capitalize;
 }
 
-h3 {
+h3 span{
   border-bottom: 1px solid green;
 }
 

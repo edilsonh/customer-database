@@ -6,7 +6,7 @@ customers.results.forEach(function(item){
   `
   <article class="people">
     <img src="${item.picture.large}">
-    <h3>${item.name.first} ${item.name.last}</h3>
+    <h3><span>${item.name.first} ${item.name.last}</span></h3>
     <p>${item.email}</p>
     <p>${item.location.street}</p>
     <p>${item.location.city}, ${item.location.state} ${item.location.postcode}</p>
